@@ -18,7 +18,9 @@ While I continue to expand my knowledge and practice of React, Express, Django, 
 
 [Riddle-Me-This](https://riddle-me-this-pi.vercel.app/)
  - Host or participate in a scavenger hunt with your friends or co-workers. The app uses a machine learning model to recognize images of one of over a thousand categorized items.
+
 [Tavern Finder](https://tavern-finder-frontend.vercel.app/)
  - Find a local TTRPG / DND game that matches your play style.
+
 [Digital Derby](https://digital-derby.netlify.app/)
  - A horse race betting website. Place your bet. Watch a live, simulated horse race. Win or lose some fake money.
